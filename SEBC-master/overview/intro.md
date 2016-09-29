@@ -4,7 +4,7 @@
 <!-- http://forums.markdownpad.com/discussion/143/include-pdf-pagebreak-instructions-in-markdown/p1 -->
 
 ---
-
+############### This is my 09/29/16 comment************
 # <center> Cloudera Services Enablement Boot Camp </center>
 ## <center> September 19-23, 2016 </center>
 ## <center> New York, NY </center>
